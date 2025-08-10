@@ -1,0 +1,4 @@
+Airport,ID,Time,Day,MaxSeats
+JFK,1000,08:30,Monday,3
+LAX,1001,12:45,Tuesday,2
+ORD,1002,18:00,Friday,4
