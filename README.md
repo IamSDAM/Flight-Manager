@@ -1,8 +1,8 @@
 # Flight-Manager
-
-A console-based C++ application to manage flights, passengers, and employees.  
-Built with **object-oriented programming**, **STL containers**, and **CSV file persistence**.  
-Originally developed as part of a **college C++ programming course** in collaboration with my teammate **Jason**.
+This Flight Management System was developed as part of my college C++ programming course in collaboration with my teammate Jason.  
+The application allows airline staff and passengers to manage flights, passenger records, and employee operations through a clean, menu-driven interface.  
+The goal was to practice object-oriented programming, dynamic memory management, and working with STL containers, while building a modular system that can be extended with new features.  
+Through this project, I gained experience in code organization, teamwork, and version control workflows — skills I continue to apply in my software development journey.
 
 ---
 
